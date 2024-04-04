@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0BslgcxGBXUeNOokGSWsbR/FL6b4Z0CdQ90lA+RXuvAiG5OvmHpdkxmOZR8OQP4IDi+6w46qBPRdZ3bqBDXcQ==",
+  "success": true,
+  "projectFilePath": "E:\\WorkSpace\\DOT NET\\FileWatcherBackup\\FileWatcherBackup\\FileWatcherBackup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard Soares\\.nuget\\packages\\ilmerge\\3.0.41\\ilmerge.3.0.41.nupkg.sha512"
+  ],
+  "logs": []
+}

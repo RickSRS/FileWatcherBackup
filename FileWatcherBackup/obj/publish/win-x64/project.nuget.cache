@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TWaghnXs2ZOojFTt/maKZYPqgwsarIzygCw7esU/CcTLBcG61Y+Npx2QCgmjtJEGfxr52iBg+VDs51RuRx8JkA==",
+  "success": true,
+  "projectFilePath": "E:\\WorkSpace\\DOT NET\\FileWatcherBackup\\FileWatcherBackup\\FileWatcherBackup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard Soares\\.nuget\\packages\\ilmerge\\3.0.41\\ilmerge.3.0.41.nupkg.sha512",
+    "C:\\Users\\Richard Soares\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Richard Soares\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Richard Soares\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

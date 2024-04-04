@@ -1,0 +1,5 @@
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Release\net7.0\publish\FileWatcherBackup.exe
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Release\net7.0\publish\FileWatcherBackup.dll
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Release\net7.0\publish\FileWatcherBackup.deps.json
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Release\net7.0\publish\FileWatcherBackup.runtimeconfig.json
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Release\net7.0\publish\FileWatcherBackup.pdb

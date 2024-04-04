@@ -1,0 +1,2 @@
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Release\net7.0\publish\win-x64\FileWatcherBackup.pdb
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Release\net7.0\publish\win-x64\FileWatcherBackup.exe

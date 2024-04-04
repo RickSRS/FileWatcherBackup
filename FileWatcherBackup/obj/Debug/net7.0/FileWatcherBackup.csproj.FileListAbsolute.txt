@@ -1,0 +1,15 @@
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Debug\net7.0\FileWatcherBackup.exe
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Debug\net7.0\FileWatcherBackup.deps.json
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Debug\net7.0\FileWatcherBackup.runtimeconfig.json
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Debug\net7.0\FileWatcherBackup.dll
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\bin\Debug\net7.0\FileWatcherBackup.pdb
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\FileWatcherBackup.csproj.AssemblyReference.cache
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\FileWatcherBackup.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\FileWatcherBackup.AssemblyInfoInputs.cache
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\FileWatcherBackup.AssemblyInfo.cs
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\FileWatcherBackup.csproj.CoreCompileInputs.cache
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\FileWatcherBackup.dll
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\refint\FileWatcherBackup.dll
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\FileWatcherBackup.pdb
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\FileWatcherBackup.genruntimeconfig.cache
+E:\WorkSpace\DOT NET\FileWatcherBackup\FileWatcherBackup\obj\Debug\net7.0\ref\FileWatcherBackup.dll
