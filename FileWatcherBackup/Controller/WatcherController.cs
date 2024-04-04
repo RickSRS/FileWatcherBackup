@@ -15,9 +15,11 @@ namespace FileWatcherBackup.Controller
             watcher.Filter = "*.*";
             watcher.Changed += (sender, eventArgs) =>
             {
+                string dateAtt = DateTime.Now.ToString("ddMMyyyy_Hmm");
                 string fullPath = eventArgs.FullPath;
-                string relativePath = fullPath.Substring(PathConfigModel.sourcePath.Length + 1);
+                string relativePath = $"{dateAtt} - {fullPath.Substring(PathConfigModel.sourcePath.Length + 1)}";
                 string destPath = Path.Combine(PathConfigModel.targetPath, relativePath);
+
 
                 try
                 {
