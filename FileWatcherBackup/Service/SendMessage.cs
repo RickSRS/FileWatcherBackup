@@ -41,7 +41,7 @@ namespace FileWatcherBackup.Service
         public static void SendNotify(string relativePath, string targetPath, bool? catcher = false)
         {
             Console.ForegroundColor = catcher ?? false ? ConsoleColor.Yellow : Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"Arquivo: {relativePath} | Copiado para: {targetPath}");
+            Console.WriteLine($"Arquivo de: {relativePath}\nCopiado para: {targetPath}");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine($"Observado...");
         }
